@@ -35,10 +35,11 @@ $ Then Click Open
 
 ## Additional Documentation and Acknowledgments
 
- Links to the website also a screenshot 
+ Links to the website and some screenshots
 
 
 * https://brianhess213.github.io/First-Password-Generator/
 
 
 <img width="1274" alt="Screenshot" src="https://user-images.githubusercontent.com/109031060/182261654-418eea41-54d6-40a4-9e90-a6b5085b5a27.png">
+<img width="1274" alt="Screenshot1" src="https://user-images.githubusercontent.com/109031060/182886744-944944eb-4a6f-439e-93e2-67c4cfe5ba2a.png">
