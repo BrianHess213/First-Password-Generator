@@ -10,7 +10,7 @@ document.getElementById("generate").addEventListener("click", genPassword);
     var lowercase = "abcdefghijklmnopqrstuvwxyz";
     var numbers = "0123456789"
     var uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-    var specialchar = "!@#$%^&*?+=";
+    var specialchar = "!#$%&'()*+,-./:;<=>?@[\]^_`{|}~";
     var password = "";
     var emptypassword = "";
 
